@@ -1,11 +1,11 @@
 {
-	"title" : "JDreamHeart-Gitbook",
+	"title" : "JDreamHeart-日常记录合集",
 	"author" : "梦心DH",
 	"description" : "日常记录合集",
 	"language" : "zh-hans",
 	"links" : {
 		"sidebar" : {
-			"Home" : "https://jdreamheart.com"
+			"Home" : "https://jdreamheart.com/wiki"
 		}
 	},
 	"plugins" : ["favicon", "expandable-chapters", "splitter", "github", "hide-element", "back-to-top-button", "mathjax"],
