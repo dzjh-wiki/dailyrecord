@@ -21,3 +21,8 @@
         * [相关资源的拉取](server/myserver/server_assets.md)
         * [相关配置的修改](server/myserver/server_configs.md)
         * [相关服务的启动](server/myserver/server_start_up.md)
+
+----
+* [解决方案](solution/README.md)
+    * [Python解决方案](solution/python_sl.md)
+    * [杂项解决方案](solution/sundry/README.md)
